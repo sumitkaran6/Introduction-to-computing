@@ -57,7 +57,7 @@ print("Ans =",Ans)
 
 #Q3.d
 r = str("radius")
-Ans = str("math.sqrt(r*(math.cos(a))*2+r(math.sin(a))**2")
+Ans = str("math.sqrt(r*(math.cos(a))**2+r*(math.sin(a))**2")
 print("Ans =",Ans)
 
 #Q3.e
