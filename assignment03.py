@@ -65,7 +65,7 @@ y1 = str("variable 1")
 y2 = str("variable 2")
 x1 = str("variable 3")
 x2 = str("variable 4")
-Ans = str("y2-y1)/(x2-x1")
+Ans = str("y2-y1/x2-x1")
 print("Ans =", Ans)
 
 
