@@ -26,7 +26,7 @@ Ans = y2-y1)/(x2-x1
 3 4 5 6 7 8 9 
 4 7 10 
 15 13 11 9 7 
-7
+
 This program finds the total molecular weight of a combination of hydrogen, carbon and oxygen atoms :
 How many hydrogen atoms? 3
 Carbon? 1
